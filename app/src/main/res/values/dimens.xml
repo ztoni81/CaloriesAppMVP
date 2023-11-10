@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">25dp</dimen>
+    <dimen name="padding">20dp</dimen>
+    <dimen name="top_margin">20dp</dimen>
+    <dimen name="item_margin_vertical">5dp</dimen>
+    <dimen name="food_name_text_size">22sp</dimen>
+    <dimen name="calories_text_size">16sp</dimen>
+    <dimen name="app_name_text_size">32dp</dimen>
+</resources>
